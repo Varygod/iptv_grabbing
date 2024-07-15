@@ -1,6 +1,7 @@
-1005k  175.9.160.125:8989
-1001k  w.yao87.com:4022
-989k  hgiue6pb.mi4.xyz:8888
-988k  www.do.dsp.mp.mi4.xyz:8888
-978k  o.dsp.mp.mi4.xyz:8888
-974k  118.254.201.17:8888
+1014k  118.254.201.17:8888
+995k  www.do.dsp.mp.mi4.xyz:8888
+992k  yao87.com:4022
+988k  www.yao87.com:4022
+961k  dak3yy7y.mi4.xyz:8888
+915k  hgiue6pb.mi4.xyz:8888
+847k  175.10.34.228:4022
