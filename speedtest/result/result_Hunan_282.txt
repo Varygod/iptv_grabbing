@@ -1,5 +1,8 @@
-1006k  118.254.201.17:8888
-989k  yao87.com:4022
-986k  www.do.dsp.mp.mi4.xyz:8888
-982k  o.dsp.mp.mi4.xyz:8888
-955k  pxhobwww.k.mi4.xyz:8888
+1001k  118.254.203.125:8888
+997k  www.qhdrive.mi4.xyz:8888
+990k  118.254.203.116:8888
+989k  o.dsp.mp.mi4.xyz:8888
+988k  www.do.dsp.mp.mi4.xyz:8888
+976k  118.254.159.52:8888
+938k  w.yao87.com:4022
+711k  118.254.201.17:8888
