@@ -1,4 +1,1 @@
-593k  victoryblackcat.dscloud.me:8888
-576k  60.7.56.33:4000
-569k  60.7.56.50:4000
-534k  120.11.250.84:4000
+10659  victoryblackcat.dscloud.me:8888
