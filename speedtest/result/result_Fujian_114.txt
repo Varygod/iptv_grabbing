@@ -1,2 +1,4 @@
-1065k  e2.woc.iiiya.cn:8888
-1046k  e1.woc.iiiya.cn:8888
+1053k  e2.woc.iiiya.cn:8888
+1052k  e1.woc.iiiya.cn:8888
+1051k  218.5.30.201:4022
+320k  www.91dos.cn:4022
